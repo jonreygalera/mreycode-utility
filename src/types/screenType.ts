@@ -1,0 +1,1 @@
+export type ScreenTypeName = 'mobile' | 'tablet' | 'laptop' | 'desktop' | 'largeDesktop';
